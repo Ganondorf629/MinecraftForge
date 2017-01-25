@@ -1,0 +1,12 @@
+{
+  "bird": {
+    "sounds": [
+      "forge/bird"
+    ],
+  },
+  "wind": {
+    "sounds": [
+      "forge/wind"
+    ],
+  }
+}
